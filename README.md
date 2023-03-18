@@ -5,6 +5,8 @@ This work is based on [this model](https://www.printables.com/model/142891-grid-
 
 I modified [STL model](https://www.printables.com/model/142891-grid-fin-spacex-falcon-9) from Printables in OpenSCAD to have round part which wraps round arms and also secures rubber band.
 
+Mask was printed in two parts on Prusa Mini and glued together.
+
 <table>
 <tr>
     <td><img src="images/final/a.jpg" alt="Image of grid fin mask"></td>
@@ -22,6 +24,3 @@ I modified [STL model](https://www.printables.com/model/142891-grid-fin-spacex-f
     <td><img src="images/render/c.png" alt="Render of grid fin mask"></td>
 </tr>
 </table>
-
-Mask was printed in two parts and then glued together.
-
